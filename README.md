@@ -69,8 +69,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasunsjc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-![](https://hit.yhype.me/github/profile?user_id=16514562)
+![Profile view counter for kasunsjc](https://hit.yhype.me/github/profile?user_id=16514562)
