@@ -1,48 +1,76 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kasun Rajapakse</h1>
 
-🔭 Hi all, I'm Kasun Rajapakse. I worked with cloud and DevOps technologies.
+<p align="center">
+  <a href="https://bit.ly/3gHzNlA"><img src="https://img.shields.io/badge/Microsoft-Azure%20MVP-blue?style=for-the-badge&logo=microsoft" alt="Azure MVP" /></a>
+  <a href="https://twitter.com/kasunsjc"><img src="https://img.shields.io/badge/Twitter-@kasunsjc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/kasunraj"><img src="https://img.shields.io/badge/LinkedIn-kasunraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kasunrajapakse.me"><img src="https://img.shields.io/badge/Medium-@kasunrajapakse-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
-🏆 I’ve 8+ years of experience in Cloud and Windows technologies
+---
 
-🇱🇰 I'm from Sri Lanka live in Netherland 🇳🇱
+### 🧑‍💻 About Me
 
-📝 You can find me on Medium https://kasunrajapakse.me
+🔭 I'm a **Cloud & DevOps Engineer** with **8+ years** of experience in Cloud and Windows technologies.
 
-💬 Ask me about: 🐳,Azure, AWS, DevOps, Kubernetes, Terraform and more........
+🇱🇰 Originally from **Sri Lanka**, currently living in the **Netherlands** 🇳🇱
 
-Azure MVP: https://bit.ly/3gHzNlA
+🏆 Proud **Microsoft Azure MVP** — [View Profile](https://bit.ly/3gHzNlA)
 
-🤔 I’m on Twitter : http://twitter.com/kasunsjc
+📝 I write technical articles on [**Medium**](https://kasunrajapakse.me)
 
-📫 How to reach me: kasunsjc@hotmail.com
+💬 Ask me about: **Azure, AWS, Docker 🐳, Kubernetes, Terraform, DevOps** and more!
 
+📫 Reach me at: **kasunsjc@hotmail.com**
 
-<!-- //////// Contact Details /////////////-->
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-<a href="https://twitter.com/kasunsjc" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kasunraj" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="30" width="40" /></a>
-<a href="https://kasunrajapakse.me" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-</br>
+---
 
-<h3 align="left">Trophy:</h3>
-<p align="center"> 
+### 🏆 Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kasunsjc&theme=algolia)]()
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kasunsjc&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+---
 
-### Stats
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true&locale=en&hide_border=true" alt="kasunsjc" />
+</p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true&locale=en" alt="kasunsjc" /></p>-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsjc&theme=algolia&hide_border=true" alt="kasunsjc" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunsjc&theme=algolia&show_icons=true&locale=en&layout=compact&hide_border=true" alt="kasunsjc" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsjc&theme=algolia&" alt="kasunsjc" /></p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunsjc&theme=algolia&show_icons=true&locale=en&layout=compact" alt="kasunsjc" /></p>-->
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kasunsjc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=16514562)
