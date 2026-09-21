@@ -17,7 +17,7 @@
 
 🏆 Proud **Microsoft Azure MVP** — [View Profile](https://bit.ly/3gHzNlA)
 
-📝 I write technical articles on [**Medium**](https://kasunrajapakse.me)
+📝 I write technical articles on [**Blog**](https://kasunrajapakse.me)
 
 💬 Ask me about: **Azure, AWS, Docker 🐳, Kubernetes, Terraform, DevOps** and more!
 
