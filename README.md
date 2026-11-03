@@ -48,7 +48,10 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasunsjc&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph for kasunsjc" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasunsjc/kasunsjc/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/kasunsjc/kasunsjc/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph for kasunsjc" />
+  </picture>
 </p>
 
 ---
