@@ -48,7 +48,10 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasunsjc&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph for kasunsjc" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasunsjc/kasunsjc/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/kasunsjc/kasunsjc/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph for kasunsjc" />
+  </picture>
 </p>
 
 ---
@@ -56,17 +59,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true&locale=en&hide_border=true" alt="GitHub statistics for kasunsjc" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details for kasunsjc" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsjc&theme=algolia&hide_border=true" alt="GitHub commit streak stats for kasunsjc" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top languages by repo" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunsjc&theme=algolia&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top programming languages used by kasunsjc" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats for kasunsjc" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Commits by hour of day" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kasunsjc&hide_border=true" alt="GitHub commit streak stats for kasunsjc" />
 </p>
 
 ---
 
-![Profile view counter for kasunsjc](https://hit.yhype.me/github/profile?user_id=16514562)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kasunsjc&style=flat-square&color=blue" alt="Profile view counter for kasunsjc" />
+</p>
